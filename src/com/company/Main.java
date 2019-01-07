@@ -10,6 +10,7 @@ public class Main {
 
             }
             System.out.print(rolyText.charAt(i));
+            //System.out.println(System.currentTimeMillis());
 
         }
 
